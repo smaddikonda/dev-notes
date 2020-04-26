@@ -6,7 +6,11 @@ description: >-
 
 # CoronaTimes
 
+## Introduction
+
 > **An open-source, simple, single-page application \(SPA\), written mainly to explore and experiment with interesting architectural paradigms like microservices, REST APIs, Containerization using Docker, Orchestration with Kubernetes, Cloud-native development, etc.**
+
+![CoronaTimes](../.gitbook/assets/logo.png)
 
 ![These are tough times, but let&apos;s go through them together. ](../.gitbook/assets/homepic.svg)
 
