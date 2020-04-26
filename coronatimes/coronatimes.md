@@ -24,3 +24,11 @@ description: >-
 10. MongoDB for document storage of auto-saved form data.
 11. Mongoose.js for object-document mapping \(ODM\).
 
+## Client Application
+
+## Server Application
+
+## Microservice Application
+
+
+
